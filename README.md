@@ -69,4 +69,4 @@ Introducing AndroidWebServer, an exceptional sample project that equips your And
 
 ## Licensing
 
-**AndroidWebServer**, created by [Lopez Mikhael](http://mikhaellopez.com/), operates under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). Elevate your Android app with this valuable Web Server tool while adhering to open-source principles.
+**AndroidWebServer**, Elevate your Android app with this valuable Web Server tool while adhering to open-source principles.
